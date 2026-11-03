@@ -90,9 +90,9 @@ Simulation completed.
 | Name | GitHub |
 |------|--------|
 | Mohamed Ibrahim | [@Longlivevetchoo](https://github.com/Longlivevetchoo) |
-| | [@master00x](https://github.com/master00x) |
-| | [@abdelrahman-nazeeh](https://github.com/abdelrahman-nazeeh) |
-| | [@1saifmohamed](https://github.com/1saifmohamed) |
+| Ahmed Mohamed Saed | [@master00x](https://github.com/master00x) |
+| Abdelrhman Nazeeh Nagy| [@abdelrahman-nazeeh](https://github.com/abdelrahman-nazeeh) |
+| Saif Eldeen Mohamed| [@1saifmohamed](https://github.com/1saifmohamed) |
 
 ## Academic Note
 
