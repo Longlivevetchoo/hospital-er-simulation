@@ -3,3 +3,5 @@ out/
 .idea/
 *.iml
 .vscode/
+Myrunnable.java
+Main.java
